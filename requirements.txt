@@ -31,3 +31,4 @@ typing-extensions==3.10.0.0
 urllib3==1.26.4
 virtualenv==16.7.10
 wexpect==4.0.0
+tqdm
