@@ -4,3 +4,5 @@ torch
 clearml
 clearml-agent
 tdqm
+pandas
+torchvision
