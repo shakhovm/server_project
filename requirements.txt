@@ -6,3 +6,4 @@ clearml-agent
 tdqm
 pandas
 torchvision
+matplotlib
